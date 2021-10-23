@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: Rainbow Cloud
+Author: khadikul islam
+Author URI: www.khadikulislam.xyz
+Theme URI: 
+Description: Rainbow Cloud is a lightweight theme to make beautiful websites with Pagelayer.
+Tested up to: 5.0
+Requires PHP: 5.0
+Version: 1.0.3
+Text Domain: rainbow-cloud
+Tags:flexible-header, accessibility-ready, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, translation-ready, block-patterns,
+License: GNU General Public License v3.0 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+This theme is licensed under the LGPL v3.0
+Rainbow Cloud WordPress Theme, (C) 2021 
+
+*/
+
+.screen-reader-text{}
+.wp-caption{}
+.wp-caption-text{}
+.gallery-caption{}
+.bypostauthor{}
